@@ -1,0 +1,45 @@
+body {
+    background-image: url("https://customersfirstacademy.com/wp-content/uploads/2021/04/How-to-keeping-customers-happy.jpg");
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    font-family: Comic Sans MS;
+    font-size: 100px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(255, 255, 255);
+}
+
+p1 {
+    font-family: Comic Sans MS;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(158, 158, 158);
+}
+
+button {
+    font-family: Comic Sans MS;
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(158, 158, 158);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 100px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red)
+}
+
+p2 {
+    font-family: Comic Sans MS;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    -webkit-text-stroke-color: rgb(255, 255, 255);
+}
